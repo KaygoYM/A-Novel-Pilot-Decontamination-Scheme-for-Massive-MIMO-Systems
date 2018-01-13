@@ -6,4 +6,4 @@ In our paper, a novel pilot decontamination scheme based on two existing schemes
 With such combination, the proposed scheme is able to mitigate the contamination and improve the quality of communication significantly, which is verified by simulation results. </br>
 # Introduction</br>
 It is the matlab code of one of my papers"A Novel Pilot Decontamination Scheme for Uplink Massive MIMO Systems".</br>
-This paper is accepted by ICICT2018 and will be published in ACM International Conference Proceeding Series (ICPS). ACM shall publish the proceedings online in the Digital Library. And ICPS which will be submitted for indexing by ACM Digital Library, and EI Compendex.
+This paper is accepted by ICICT2018 and will be published in ACM International Conference Proceeding Series (ICPS). ACM shall publish the proceedings online in the Digital Library. And ICPS will be submitted for indexing by ACM Digital Library, and EI Compendex.
